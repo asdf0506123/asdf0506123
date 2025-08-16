@@ -11,3 +11,8 @@ I love **learning autonomously** and diving into exciting topics like **neurosci
 🚀 Always curious, always exploring.  
 
 Feel free to **check out my projects** and connect with me! 🌟
+
+<br><br>
+<a href="https://github.com/ankitwarbhe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitwarbhe&theme=dark">
+</a>
