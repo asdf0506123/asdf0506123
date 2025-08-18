@@ -2,7 +2,7 @@
 
 🎓 **Programming Student** | 💻 **Database Enthusiast** | 🧠 **Self-taught in Neuroscience & Neurotechnology**
 
-I love **learning autonomously** and diving into exciting topics like **neuroscience, neurotechnology**, and other tech adventures.  
+Diving into exciting topics like **neuroscience, neurotechnology**.  
 
 💡 **My focus:**  
 - Optimizing, and experimenting with **databases**  
