@@ -1,12 +1,8 @@
 # Hey there! I'm Mel 👋
 
-🎓 **Programming Student** | 💻 **Database** | 🧠 **Self-taught in Neuroscience & Neurotechnology**
+🎓 **Programming Student** | 🧠 **Self-taught in Neuroscience & Neurotechnology**
 
-Diving into exciting topics like **neuroscience, neurotechnology**.  
-
-💡 **My focus:**  
-- Optimizing, and experimenting with **databases**  
-- Exploring innovative ideas in tech and science   
+Diving into exciting topics like **neuroscience, neurotechnology**.   
 
 Feel free to **check out my projects** and connect with me! 🌟
 
