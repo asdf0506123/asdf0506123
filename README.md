@@ -1,6 +1,6 @@
-# Hey there! I'm Mel 👋
+# Hey there! I'm Melanie Alcocer 👋
 
-🎓 **Programming Student** | 🧠 **Self-taught in Neuroscience & Neurotechnology**
+🎓 **Programming Student**
 
 Diving into exciting topics like **neuroscience, neurotechnology**.   
 
