@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Melanie Alcocer</h1>
 <h3 align="center">Enthusiastic programmer · Exploring neuroscience & neurotechnology</h3>
----
+
 
 ### 🙋‍♀️ About me
 
