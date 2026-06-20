@@ -2,13 +2,13 @@
 <h3 align="center">Enthusiastic programmer · Exploring neuroscience & neurotechnology</h3>
 
 
-### 🙋‍♀️ About me
+### About me
 
-- 🧠 Currently diving into **neuroscience and neurotechnology**
-- 🎨 I enjoy both creative work like **design and video editing**
+- Currently diving into **neuroscience and neurotechnology**
+- I enjoy both creative work like **design and video editing**
 ---
 
-### 🛠️ Languages & Frameworks
+### Languages & Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -25,7 +25,7 @@
 
 ---
 
-### 🎨 Design & Tools
+### Design & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
