@@ -1,23 +1,11 @@
 <h1 align="center">Hey 👋, I'm Melanie Alcocer</h1>
 <h3 align="center">Enthusiastic programmer · Exploring neuroscience & neurotechnology</h3>
-
-<p align="center">
-  <a href="https://lanieportfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/melanie-alcocer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### 🙋‍♀️ About me
 
 - 🧠 Currently diving into **neuroscience and neurotechnology**
 - 🎨 I enjoy both creative work like **design and video editing**
-- 📂 All my projects are at [lanieportfolio.netlify.app](https://lanieportfolio.netlify.app/)
-
 ---
 
 ### 🛠️ Languages & Frameworks
